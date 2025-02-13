@@ -1,18 +1,14 @@
-# Project Name
+# Описание проекта
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://example.com)
+Этот проект полностью создается при помощи нейросети через Telegram-бота [@replaner_bot](https://t.me/replaner_bot). Все файлы, от структуры до содержания, генерируются ботом на основе запросов и требований проекта.
 
-## Overview
+## Структура проекта
 
-[Project Name] is designed to [provide a short project description]. It helps users to [what the project does].
+- `/Contributing.md`
+- `/Installation.md`
+- `/Introduction.md`
+- `/License.md`
+- `/README.md`
+- `/Usage.md`
 
-## Table of Contents
-
-- [Installation](Installation.md)
-- [Usage](Usage.md)
-- [Contributing](Contributing.md)
-- [License](License.md)
-
-## Introduction
-
-[Refer to the Introduction.md for an overview.](Introduction.md)
+Каждый из этих файлов играет важную роль в представлении, использовании и развитии проекта.
