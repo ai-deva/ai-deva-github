@@ -1,13 +1,13 @@
 # Introduction
 
-Welcome to [Project Name]! Our project aims to [brief description of the project purpose].
+Welcome to the demonstration project! This repository is intended to showcase the capabilities of a simple Java application. 
+
+**Disclaimer:** This code is for educational and demonstration purposes only and should not be used in production environments.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Basic Java application structure
+- Example classes and methods
+- Simplistic functionality to exhibit design patterns
 
-## Get Involved
-
-We are an open-source project and welcome contributions.
+Feel free to explore and learn from it, but remember it's not designed for production use.
