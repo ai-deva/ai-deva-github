@@ -1,26 +1,16 @@
 # Project Title
 
-A brief description of your project and its purpose.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Description
+This is a brief description of the project.
 
 ## Installation
-
-Instructions on how to install your project. You might want to specify the system requirements, dependencies, and installation steps.
+Step by step instructions to install the project.
 
 ## Usage
-
-How to use your project.
+Instructions on how to use the project.
 
 ## Contributing
-
-Guidelines on how to contribute to your project.
+Instructions on how to contribute to the project.
 
 ## License
-
-Details about the license.
+License information.
