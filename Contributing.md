@@ -1,8 +1,14 @@
 # Contributing
 
-We welcome contributions from the community! Please follow these guidelines when submitting changes.
+Welcome to our project! Thank you for considering contributing. Please note that this is a demonstration repository, and your Pull Request likely won't be merged. However, feel free to submit it.
 
-1. Fork the repository on GitHub.
-2. Create a branch from `main` for your changes.
-3. Make your changes.
-4. Submit a pull request with a clear description of your changes.
+## Contribution Guidelines
+
+- Fork the repository.
+- Create a branch for your feature or bug fix.
+- Write clear and concise commit messages.
+- Ensure your code follows the project's coding style.
+- Make sure to add tests if applicable.
+- Submit a pull request and wait for feedback!
+
+Thank you for your interest and effort in enhancing this demonstration project!
