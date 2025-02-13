@@ -1,31 +1,31 @@
 # Project Title
 
-## Description
+This is a sample project to demonstrate file creation operations.
 
-This project is designed to...
+## Table of Contents
 
-## Getting Started
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Prerequisites
+## Introduction
 
-List of prerequisites...
+Add a short introduction about your project here.
 
-### Installation
+## Installation
 
-Step by step installation process...
+Provide instructions on installing your project here.
 
 ## Usage
 
-Instructions for using this project...
+Explain how to use your project here.
 
 ## Contributing
 
-Guidelines for contributing to the project...
+Explain how others can contribute to your project here.
 
 ## License
 
-Details of the project's license...
-
-## Contact
-
-Information to contact the author or maintainers of the project...
+Include your project's license information here.
