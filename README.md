@@ -1,14 +1,6 @@
-# Описание проекта
+# Project Title
 
-Этот проект полностью создается при помощи нейросети через Telegram-бота [@replaner_bot](https://t.me/replaner_bot). Все файлы, от структуры до содержания, генерируются ботом на основе запросов и требований проекта.
+A brief description of the project.
 
-## Структура проекта
-
-- `/Contributing.md`
-- `/Installation.md`
-- `/Introduction.md`
-- `/License.md`
-- `/README.md`
-- `/Usage.md`
-
-Каждый из этих файлов играет важную роль в представлении, использовании и развитии проекта.
+## Getting Started
+Instructions to get a copy of the project up and running.
