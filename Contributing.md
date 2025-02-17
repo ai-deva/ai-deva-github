@@ -1,8 +1,8 @@
-# Contributing
+# Contributing Guidelines
 
-We welcome contributions from the community! Please follow these guidelines when submitting changes.
+We appreciate any contributions to improve the project!
 
-1. Fork the repository on GitHub.
-2. Create a branch from `main` for your changes.
-3. Make your changes.
-4. Submit a pull request with a clear description of your changes.
+## How to contribute
+- Fork the repo
+- Create a feature branch
+- Send a pull request
