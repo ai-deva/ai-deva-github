@@ -1,21 +1,6 @@
-# Installation
+# Installation Instructions
 
-Follow these steps to install the project:
+Step-by-step guide to set up the project environment.
 
-1. Clone the repository:
-
-```sh
-git clone https://github.com/your-project-repo.git
-```
-
-2. Navigate to the project directory:
-
-```sh
-cd your-project-directory
-```
-
-3. Install dependencies:
-
-```sh
-npm install # or pip install -r requirements.txt for Python projects
-```
+1. Clone the repository
+2. Install necessary dependencies
