@@ -1,13 +1,7 @@
 # Introduction
 
-Welcome to [Project Name]! Our project aims to [brief description of the project purpose].
+Overview of the project, its goals, and key components.
 
-## Features
-
+## Project Features
 - Feature 1
 - Feature 2
-- Feature 3
-
-## Get Involved
-
-We are an open-source project and welcome contributions.
